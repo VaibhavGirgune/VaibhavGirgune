@@ -37,7 +37,7 @@
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=VaibhavGirgune&show_icons=true&hide=["issues"])
 
 <!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavGirgunet&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavGirgune&layout=compact)
 
 <!-- streak -->
 <picture>
