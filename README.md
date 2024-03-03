@@ -41,8 +41,8 @@
 
 <!-- streak -->
 <picture>
-    <source media="(prefers-color-scheme: tokyonight)" srcset="https://streak-stats.demolab.com?user=VaibhavGirgune&theme=tokyonight" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=VaibhavGirgune&theme=tokyonight" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: tokyonight)" srcset="https://streak-stats.demolab.com?user=VaibhavGirgune" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=VaibhavGirgune" alt="GitHub Streak" />
 </picture>
 
     
